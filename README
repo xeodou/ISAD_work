@@ -10,3 +10,5 @@ mysql
 
 use web
 jquery
+
+程序入口 server.js
