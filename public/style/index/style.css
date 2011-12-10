@@ -1,0 +1,125 @@
+.db{
+	font-weight: bolder;
+	background-color: #e9f4e9;
+	width: 64%;
+	height: 36px;
+	text-align: left;
+	margin: 0 auto;
+	margin-top: 4.5%;
+}
+
+.site-layout{
+	text-align: left;
+	padding-left: 20px;
+	line-height: 36px;
+	color: #d4d4d4;
+}
+
+.site-layout ul{
+	list-style:none;
+	display: block;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+	text-shadow: #323232;
+}
+
+.site-layout li{
+	display: list-item;
+	width: auto;
+	float: left;
+	margin: 30px;
+	margin-top: auto;
+}
+.info{
+	text-align: auto;
+}
+
+table {  
+    width: 64%;  
+    border-collapse: collapse;
+    margin: 0 auto;
+}  
+  
+th,td {
+	font-weight: normal;
+    text-align: left;  
+    padding: .5em;   
+}  
+   
+  
+td {  
+    background: #e5f1f4;  
+}  
+  
+tr.even td {  
+    background: #e5f1f4;  
+}  
+  
+tr.odd td {  
+    background: #f8fbfc;  
+}  
+  
+th.over,tr.even th.over,tr.odd th.over {  
+    background: #4a98af;  
+}  
+  
+th.down,tr.even th.down,tr.odd th.down {  
+    background: #bce774;  
+}  
+  
+th.selected,tr.even th.selected,tr.odd th.selected {  
+      
+}  
+  
+td.over,tr.even td.over,tr.odd td.over {  
+    background: #ecfbd4;  
+}  
+  
+td.down,tr.even td.down,tr.odd td.down {  
+    background: #bce774;  
+    color: #fff;  
+}  
+  
+td.selected,tr.even td.selected,tr.odd td.selected {  
+    background: #bce774;  
+    color: #555;  
+}  
+  
+td.empty,tr.odd td.empty,tr.even td.empty {  
+    background: #fff;  
+}
+
+.new-layout{
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 70px;
+}
+
+.label-layout{
+	margin-top: 20px;
+	text-align: right;
+	margin-right: 300px;
+}
+
+input.text{
+	width: 200px;
+}
+select{
+	margin-right: 116px;
+}
+
+.search-layout{
+	width: 64%;
+	margin: 0 auto;
+	margin-top: 70px;
+	text-align: center;
+}
+.error-layout{
+	width: 68%;
+	margin: 0 auto;
+	margin-top: 70px;
+	text-align: center;
+}
